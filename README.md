@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! Wolrd I'm mr. Nunes Fire! Fire! Fire! 🔥
 
-<!--
-**manopico2024/manopico2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/PROJETOS)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<img aling="center" height="30" width="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img aling="center" height="30" width="70" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor= white">
+<img aling="center" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+</div>
+
