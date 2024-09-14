@@ -1,7 +1,7 @@
 # Hello! Wolrd I'm mr. Nunes 🔥
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/PROJETOS)
-[![SITE](https://img.shields.io/badge/SITE-3776AB?style=for-the-badge&logo=python&logoColor=white)]((https://manotech.netlify.app/)
+[![SITE](https://img.shields.io/badge/SITE-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://manotech.netlify.app/)
 
 ## Skills
 
