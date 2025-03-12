@@ -1,7 +1,7 @@
 # Hello! Wolrd I'm mr. Nunes 🔥
 
 [![Python: Projeto 1](https://img.shields.io/badge/Python:1°Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/catalogo-alemao)
-[![Python: Projeto 1](https://img.shields.io/badge/Python:2°Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/catalogo-alemao)
+[![Python: Projeto 1](https://img.shields.io/badge/Python:2°Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)]([https://github.com/manopico2024/catalogo-alemao](https://github.com/manopico2024/Catalogo-Biologo))
 [![SITE](https://img.shields.io/badge/SITE-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.manotech.tech/)
 
 ## Skills
