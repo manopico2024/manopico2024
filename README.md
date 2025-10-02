@@ -5,10 +5,11 @@
 [![SITE](https://img.shields.io/badge/SITE-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.manotech.tech/)
 
 ## Skills ### ATUALIZAÇÕES ####
+  <img height="30" width="65" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; font-size: 18px; margin: 20px 0;">    
 
-<div style="display: inline_block; font-size: 16px;">    
-  <img height="30em" width="65em" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br" alt="ManoDEV Stats"/>
 
-
-  ![ManoDEV](https://github-readme-stats.vercel.app/api?username=manopico2024&anuraghazra&show_icons=true&theme=radical&locale=pt-br)
-<h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
