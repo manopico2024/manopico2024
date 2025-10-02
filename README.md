@@ -12,4 +12,5 @@
 <div style="display: inline_block; font-size: 14px;"><br>    
     <img align="center" height="35" width="60" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+**![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)**
 <h1>
