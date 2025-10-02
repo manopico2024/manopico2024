@@ -6,9 +6,10 @@
 
 ## Skills ### ATUALIZAÇÕES ####
 
-<div style="display: inline_block; font-size: 14px;"><br>    
-    <img align="center" height="30em" width="65em" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<div style="display: inline_block; font-size: 14px;"><br>     
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manopico2024&anuraghazra&show_icons=true&theme=radical"/>
+<div style="display: inline_block; font-size: 16px;">    
+  <img height="30em" width="65em" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<div style="display: inline_block; font-size: 16px;">   
+  <img height="30em" width="65em" src="https://img.shields.io/badge/REACT_NATIVE-CA4245?style=for-the-badge&logo=react-native&logoColor=white" />
 
+  ![ManoDEV](https://github-readme-stats.vercel.app/api?username=manopico2024&anuraghazra&show_icons=true&theme=radical&locale=pt-br)
 <h1>
