@@ -2,7 +2,7 @@
 
 [![Python: Projeto 1](https://img.shields.io/badge/Python:1°Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Sabia)
 [![Python: Projeto 1](https://img.shields.io/badge/Python:2°Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Sabia3)
-[![SITE](https://img.shields.io/badge/SITE-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.manotech.tech/)
+
 
 ## Skills ### ATUALIZAÇÕES ####
   <img height="30" width="65" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -15,10 +15,6 @@
  
   ![snake gif](https://github.com/manopico2024/manopico2024/blob/output/github-contribution-grid-snake.svg)
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
- </picture>
+
 </div>
 
