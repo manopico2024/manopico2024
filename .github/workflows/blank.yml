@@ -1,3 +1,4 @@
+
 # Nome da Actions:  
 name: Snake Game
 
@@ -23,7 +24,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: nomeUsuario #Seu usuario
+          github_user_name:manopico2024
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -33,7 +34,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: manopico2024
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -44,4 +45,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
