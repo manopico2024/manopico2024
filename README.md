@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br" alt="ManoDEV Stats"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical" alt="Top Languages"/>
-  ![snake animation](https://github.com/manopico2024/manopico2024/blob/output/github-contribution-grid-snake2.svg)
 
   ![snake gif](https://github.com/manopico2024/manopico2024/blob/output/github-contribution-grid-snake.svg)
 </div>
