@@ -22,7 +22,7 @@
       height="28" 
       width="88" 
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      style="font-size: 12px;" />
+      style="font-size: 11px;" />
     <img 
       height="28" 
       width="90"   
