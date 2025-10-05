@@ -3,8 +3,10 @@
 <div align="left">
 
 [![Python: Projeto 1](https://img.shields.io/badge/Python_1°_Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Sabia)
-[![Python: Projeto 2](https://img.shields.io/badge/Python_2°_Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Sabia3)
-
+[![Python: Projeto 2](https://img.shields.io/badge/Python_2°_Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+(https://github.com/manopico2024/Sabia3)
+[![Python: Projeto 3](https://img.shields.io/badge/Python_3°_Projeto-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+([https://github.com/manopico2024/Sabia3](https://github.com/manopico2024/Cadastro_Clientes))
 
 ## 🚀 Skills & ATUALIZAÇÕES
 <div>
