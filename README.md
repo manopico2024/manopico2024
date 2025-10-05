@@ -12,7 +12,7 @@
 
 
 ## 🚀 Skills & ATUALIZAÇÕES
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; ">
+<div style="display: flex; align-items: left; gap: 10px; flex-wrap: wrap; ">
     <img 
       height="63" 
       width="90" 
