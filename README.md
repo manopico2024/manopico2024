@@ -17,8 +17,8 @@
 </div>
 <div align="center">
   **FullStack em Python, front-end em C++, atualmente iniciando estudo em mobile. Iniciando um módulo novo hoje.**
-</div>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <div div="right">
   ### 📊 GitHub Analytics
 </div>
@@ -28,8 +28,5 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br" alt="manopico2024 Stats"/>
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical" alt="Top Languages"/>
-<div align="center">
-  <img alt="" src="https://img.shields.io/github/repo-size/manopico2024/manopico2024" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/manopico2024/manopico2024" />
-  
-</div>
+
 
