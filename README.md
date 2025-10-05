@@ -13,20 +13,20 @@
 ## 🚀 Skills & ATUALIZAÇÕES
 <div align="left">
     <img 
-      height="32" 
+      height="31" 
       width="105" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 21px;" />
     <img 
-      height="30" 
+      height="31" 
       width="105" 
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      style="font-size: 21px;" />
+      style="font-size: 19px;" />
     <img 
-      height="30" 
+      height="31" 
       width="105"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-      style="font-size: 21px;" />
+      style="font-size: 19px;" />
 </div>
 
 <div align="center"></P><h4><b>
@@ -39,12 +39,13 @@
 
   ### 📊 GitHub Analytics
 </div>
-<div align="left"></p>
+
+<div align="left" style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
 
 <!-- ESTATÍSTICAS COMPLETAS -->
-<img height="170" width="400" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=40&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=808080&custom_title=📊%20ESTATÍSTICAS%20DE%20ESTUDOS&card_width=500" alt="Estatísticas Completas"/>
+<img height="220" width="400" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=40&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=808080&custom_title=📊%20ESTATÍSTICAS%20DE%20ESTUDOS&card_width=500" alt="Estatísticas Completas"/>
 
-<img height="170" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
-
+<!-- LINGUAGENS MAIS USADAS -->
+<img height="220" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
 
 </div>
