@@ -13,7 +13,7 @@
 ## 🚀 Skills & ATUALIZAÇÕES
 <div align="left">
     <img 
-      height="32" 
+      height="31" 
       width="105" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 21px;" />
@@ -25,9 +25,10 @@
     <img 
       height="31" 
       width="105"   
-      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+      src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
+
 
 <div align="center"></P><h4><b>
 
