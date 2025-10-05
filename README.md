@@ -14,18 +14,18 @@
 ## 🚀 Skills & ATUALIZAÇÕES
 <div align="left">
     <img 
-      height="75" 
-      width="100" 
+      height="81" 
+      width="105" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
-      style="font-size: 19px;" />
+      style="font-size: 21px;" />
     <img 
-      height="28" 
-      width="90" 
+      height="30" 
+      width="100" 
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
       style="font-size: 5px;" />
     <img 
       height="40" 
-      width="95"   
+      width="100"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
