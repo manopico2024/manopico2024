@@ -20,7 +20,7 @@
     <img 
       height="31" 
       width="105" 
-      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+      src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"
       style="font-size: 19px;" />
     <img 
       height="31" 
@@ -28,8 +28,6 @@
       src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
-
-
 <div align="center"></P><h4><b>
 
   **FullStack em Python, front-end em C++,</br> atualmente iniciando estudo em mobile.</br> Iniciando um módulo novo hoje.**
