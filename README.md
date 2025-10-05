@@ -15,7 +15,7 @@
 <div style="display: flex; align-items: left; gap: 10px; flex-wrap: wrap; ">
     <img 
       height="80" 
-      width="97" 
+      width="99" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 28px;" />
     <img 
@@ -25,7 +25,7 @@
       style="font-size: 14px;" />
     <img 
       height="29" 
-      width="92"   
+      width="93"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 12px;" />
 </div>
