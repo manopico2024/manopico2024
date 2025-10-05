@@ -12,7 +12,7 @@
 
 
 ## 🚀 Skills & ATUALIZAÇÕES
-<div style="display: flex; align-items: left; gap: 10px; flex-wrap: wrap; ">
+<div style="display: flex; align-items: left; flex-wrap: wrap; ">
     <img 
       height="80" 
       width="99" 
@@ -38,7 +38,7 @@
 
 
 
-<div style=" justify-content: left; align-items: flex-start; gap: 10px; flex-wrap: nowrap; margin: 20px 0;"></p>
+<div style=" justify-content: left; align-items: flex-start; gap: 10px; flex-wrap: nowrap;"></p>
 
 <!-- ESTATÍSTICAS COMPLETAS -->
 <img height="680" width="455" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=808080&custom_title=📊%20ESTATÍSTICAS%20COMPLETAS&card_width=600" alt="Estatísticas Completas"/>
