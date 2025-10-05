@@ -15,7 +15,7 @@
 <div style="display: flex; align-items: left; flex-wrap: wrap; ">
     <img 
       height="80" 
-      width="99" 
+      width="97" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 28px;" />
     <img 
