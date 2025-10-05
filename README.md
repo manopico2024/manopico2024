@@ -25,7 +25,7 @@
       style="font-size: 10px;" />
 </div>
 
-<div align="center">
+<div align="left">
   **FullStack em Python, front-end em C++, atualmente iniciando estudo em mobile. Iniciando um módulo novo hoje.**
 <div div="right"></p>
   ### 📊 GitHub Analytics
