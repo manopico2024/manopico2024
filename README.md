@@ -24,7 +24,7 @@
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
       style="font-size: 12px;" />
     <img 
-      height="29" 
+      height="28" 
       width="93"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 12px;" />
