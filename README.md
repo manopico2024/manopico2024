@@ -32,10 +32,4 @@
   <img alt="" src="https://img.shields.io/github/repo-size/manopico2024/manopico2024" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/manopico2024/manopico2024" />
   
 </div>
-</div>
 
-### 🐍 Minhas Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/manopico2024/manopico2024/output/github-contribution-grid-snake.svg)
-
-</div>
