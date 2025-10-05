@@ -20,7 +20,7 @@
     <img 
       height="31" 
       width="105" 
-      src="https://img.shields.io/badge/CSS3-239120?style=for-the-badge&logo=css3&logoColor=white"
+      src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"
       style="font-size: 19px;" />
     <img 
       height="31" 
