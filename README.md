@@ -33,8 +33,8 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br" alt="manopico2024 Stats"/>
+  <img height="300" width="250" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br" alt="manopico2024 Stats"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical" alt="Top Languages"/>
-
+  <img height="300" width="223" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
