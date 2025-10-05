@@ -2,9 +2,13 @@
 
 <div align="left">
 
-[![Python:](https://img.shields.io/badge/Python_Sabia-sistema-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Sabia)
-[![Python:](https://img.shields.io/badge/Python:_Ordem-servicos-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/Cadastro_Clientes)
-[![Python:](https://img.shields.io/badge/Python_Projeto:Gerador-senhas-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/gerador_de_senhas)
+[![PYTHON](https://img.shields.io/badge/PYTHON_Sabia_Sistema-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/Sabia)
+[![PYTHON](https://img.shields.io/badge/PYTHON_Ordem_Servicos-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/Cadastro-Clientes)
+[![PYTHON](https://img.shields.io/badge/PYTHON_Gerador_Senhas-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/gerador-de-senhas)
+[![PYTHON](https://img.shields.io/badge/PYTHON_Alerta_Tempestades-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/Alerta-de-tempestade)
+
+</div>
+
 
 ## 🚀 Skills & ATUALIZAÇÕES
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; ">
