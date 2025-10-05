@@ -15,7 +15,7 @@
 <div align="left">
     <img 
       height="73" 
-      width="96" 
+      width="95" 
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 19px;" />
     <img 
