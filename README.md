@@ -47,4 +47,3 @@
 <img height="168" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
 
 </div>
-</div>
