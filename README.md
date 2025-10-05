@@ -19,15 +19,15 @@
       src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
       style="font-size: 19px;" />
     <img 
-      height="27" 
+      height="30" 
       width="88" 
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      style="font-size: 13px;" />
+      style="font-size: 14px;" />
     <img 
       height="30" 
       width="90"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-      style="font-size: 13px;" />
+      style="font-size: 14px;" />
 </div>
 
 <div align="left">
