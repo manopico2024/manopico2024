@@ -2,28 +2,106 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
+  workflow_dispatch:      # Permite execução manual
   push:
     branches: [ main ]
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake Game
+      - name: Generate GitHub Contribution Snake Game
         uses: Platane/snk@v3
         with:
           github_user_name: manopico2024
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_scheme=dark_green
-          svg_base_url: https://raw.githubusercontent.com/manopico2024/manopico2024/output/
+            dist/github-contribution-grid-snake-dark.svg?color_scheme=dark
+            dist/github-contribution-grid-snake.gif?color_scheme=random
+          svg_out_options: "no_github_links"
+
+      - name: Create index.html for preview
+        run: |
+          mkdir -p dist
+          cat > dist/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <title>Snake Animation - manopico2024</title>
+              <style>
+                  body {
+                      font-family: Arial, sans-serif;
+                      max-width: 1200px;
+                      margin: 0 auto;
+                      padding: 20px;
+                      background: #f5f5f5;
+                  }
+                  .container {
+                      background: white;
+                      padding: 20px;
+                      border-radius: 10px;
+                      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                      margin: 20px 0;
+                  }
+                  h1 {
+                      color: #333;
+                      text-align: center;
+                  }
+                  .snake-container {
+                      text-align: center;
+                      margin: 20px 0;
+                  }
+                  img {
+                      max-width: 100%;
+                      height: auto;
+                      border: 2px solid #ddd;
+                      border-radius: 5px;
+                  }
+                  .info {
+                      background: #e7f3ff;
+                      padding: 15px;
+                      border-radius: 5px;
+                      margin: 20px 0;
+                  }
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🐍 GitHub Contribution Snake Game</h1>
+                  <div class="info">
+                      <p><strong>Usuário:</strong> manopico2024</p>
+                      <p><strong>Última atualização:</strong> <span id="date"></span></p>
+                      <p>Esta animação é gerada automaticamente com base nas contribuições do GitHub.</p>
+                  </div>
+                  
+                  <div class="snake-container">
+                      <h2>🌞 Tema Claro</h2>
+                      <img src="./github-contribution-grid-snake.svg" alt="GitHub Snake Animation Light">
+                  </div>
+                  
+                  <div class="snake-container">
+                      <h2>🌙 Tema Escuro</h2>
+                      <img src="./github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation Dark">
+                  </div>
+                  
+                  <div class="snake-container">
+                      <h2>🎬 Animação GIF</h2>
+                      <img src="./github-contribution-grid-snake.gif" alt="GitHub Snake Animation GIF">
+                  </div>
+              </div>
+              
+              <script>
+                  document.getElementById('date').textContent = new Date().toLocaleString();
+              </script>
+          </body>
+          </html>
+          EOF
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -31,4 +109,10 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          force_orphan: true
+          force_orphan: false
+          keep_files: false
+
+      - name: Verify Deployment
+        run: |
+          echo "🎉 Snake animation gerada com sucesso!"
+          echo "📁 Disponível em: https://manopico2024.github.io/manopico2024/"
