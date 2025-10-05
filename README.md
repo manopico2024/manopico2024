@@ -7,18 +7,24 @@
 [![Python:](https://img.shields.io/badge/Python_Projeto:Gerador-senhas-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/manopico2024/gerador_de_senhas)
 
 ## 🚀 Skills & ATUALIZAÇÕES
-<div>
-  <img 
-  height="45" 
-  width="90" 
-  src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  style="font-size: 18px;"
- />
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div>
+    <img 
+      height="63" 
+      width="90" 
+      src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"  
+      style="font-size: 22px;"
+    />
+    <img 
+      height="26" 
+      width="90" 
+      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+      style="font-size: 11px;" 
+
 </div>
+
 <div align="center">
   **FullStack em Python, front-end em C++, atualmente iniciando estudo em mobile. Iniciando um módulo novo hoje.**
-
-
 <div div="right">
   ### 📊 GitHub Analytics
 </div>
