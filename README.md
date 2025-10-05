@@ -38,12 +38,10 @@
 
 
 
-<div style="display: flex; justify-content: left; align-items: flex-start; gap: 10px; flex-wrap: nowrap; margin: 20px 0;">
+<div style=" justify-content: left; align-items: flex-start; gap: 10px; flex-wrap: nowrap; margin: 20px 0;">
 
 <!-- ESTATÍSTICAS COMPLETAS -->
 <img height="650" width="444" src="https://github-readme-stats.vercel.app/api?username=manopico2024&show_icons=true&theme=radical&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=808080&custom_title=📊%20ESTATÍSTICAS%20COMPLETAS&card_width=600" alt="Estatísticas Completas"/>
 
-<!-- LINGUAGENS MAIS USADAS -->
-<img height="168" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
-
+<img height="168" width="348" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
 </div>
