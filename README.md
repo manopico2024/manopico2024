@@ -33,7 +33,7 @@
   **FullStack em Python, front-end em C++,</br> atualmente iniciando estudo em mobile.</br> Iniciando um módulo novo hoje.**
 </div>
 
-<div align="center">
+<div align="left">
 </p></P><h1><b>
 
   ### 📊 GitHub Analytics
