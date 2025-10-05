@@ -20,14 +20,14 @@
       style="font-size: 28px;" />
     <img 
       height="26" 
-      width="90" 
+      width="92" 
       src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-      style="font-size: 10px;" />
+      style="font-size: 12px;" />
     <img 
       height="26" 
-      width="90"   
+      width="92"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-      style="font-size: 10px;" />
+      style="font-size: 12px;" />
 </div>
 
 <div align="left">
