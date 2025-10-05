@@ -25,7 +25,7 @@
       style="font-size: 5px;" />
     <img 
       height="40" 
-      width="100"   
+      width="105"   
       src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
