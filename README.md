@@ -42,7 +42,7 @@
 <div align="left" style="display: flex; justify-content: flex-start; align-items: flex-end; gap: 5px; flex-wrap: wrap;">
 
 <!-- ESTATÍSTICAS COMPLETAS -->
-<img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS%20DE%20ESTUDOS&card_width=400&font_size=24" alt="Estatísticas Completas"/>
+<img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS%20DE%20ESTUDOS&card_width=400&font_size=27" alt="Estatísticas Completas"/>
 
 <!-- LINGUAGENS MAIS USADAS -->
 <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
