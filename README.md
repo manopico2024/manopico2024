@@ -7,6 +7,7 @@
 [![PYTHON](https://img.shields.io/badge/Gerador_de_Senhas-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/gerador_de_senhas)
 [![PYTHON](https://img.shields.io/badge/Alerta_Tempestades-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/Alerta_de_tempestade)
 [![PYTHON](https://img.shields.io/badge/Calculos_para_Eletronica-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calculos-de-eletronica)
+[![PYTHON](https://img.shields.io/badge/Calculadora_de_Regra_de_3-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calcula_regra_de_3)
 
 </div>
 
