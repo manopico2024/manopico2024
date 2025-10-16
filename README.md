@@ -8,6 +8,7 @@
 [![PYTHON](https://img.shields.io/badge/Alerta_Tempestades-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/Alerta_de_tempestade)
 [![PYTHON](https://img.shields.io/badge/Calculos_para_Eletronica-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calculos-de-eletronica)
 [![PYTHON](https://img.shields.io/badge/Calculadora_de_Regra_de_3-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calcula_regra_de_3)
+[![PYTHON](https://img.shields.io/badge/Organizador_de_Arquivos-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/banco_de_arquivos)
 
 </div>
 
@@ -38,14 +39,18 @@
 </p></P><h1><b>
 
   ### 📊 GitHub Analytics
-</div>
-
-<div align="left" style="display: flex; justify-content: flex-start; align-items: flex-end; gap: 5px; flex-wrap: wrap;">
-
-<!-- ESTATÍSTICAS COMPLETAS -->
-<img height="166" width="350" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS%20DE%20ESTUDOS&card_width=400&font_size=27" alt="Estatísticas Completas"/>
-
-<!-- LINGUAGENS MAIS USADAS -->
-<img height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS%20MAIS%20USADAS&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Linguagens Mais Usadas"/>
+<div align="center">
+  
+  <!-- Primeira linha - Estatísticas -->
+  <div>
+    <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS&card_width=300" alt="Estatísticas Completas"/>
+  </div>
+  
+  <br>
+  
+  <!-- Segunda linha - Linguagens -->
+  <div>
+    <img height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=300" alt="Linguagens Mais Usadas"/>
+  </div>
 
 </div>
