@@ -31,8 +31,7 @@
       style="font-size: 19px;" />
 </div>
 <div align="left"></P><h4><b>
-
-  **FullStack em Python, front-end em C++,</br> atualmente iniciando estudo em mobile.</br> Iniciando um módulo novo hoje.**
+  **FullStack em Python, front-end em C++, atualmente iniciando estudo em mobile. Iniciando um módulo novo hoje.**
 </div>
 
 <div align="center">
