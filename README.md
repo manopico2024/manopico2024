@@ -30,7 +30,7 @@
       src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
-<div align="center"></P><h4><b>
+<div align="left"></P><h4><b>
 
   **FullStack em Python, front-end em C++,</br> atualmente iniciando estudo em mobile.</br> Iniciando um módulo novo hoje.**
 </div>
@@ -39,18 +39,11 @@
 </p></P><h1><b>
 
   ### 📊 GitHub Analytics
-<div align="center">
+<div align="left">
   
   <!-- Primeira linha - Estatísticas -->
   <div>
     <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS&card_width=300" alt="Estatísticas Completas"/>
-  </div>
-  
-  <br>
-  
-  <!-- Segunda linha - Linguagens -->
-  <div>
-    <img height="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manopico2024&locale=pt-br&layout=compact&theme=radical&hide_border=false&hide_title=false&title_color=3776AB&text_color=ffffff&bg_color=000000&border_color=3776AB&border_radius=20&custom_title=🚀%20LINGUAGENS&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=300" alt="Linguagens Mais Usadas"/>
   </div>
 
 </div>
