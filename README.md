@@ -12,7 +12,7 @@
 
 </div>
 
-## Skills & ATUALIZAÇÕES🚀
+## Skills & ATUALIZAÇÕES 🚀
 <div align="left">
     <img 
       height="31" 
