@@ -9,7 +9,7 @@
 [![PYTHON](https://img.shields.io/badge/Calculos_para_Eletronica-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calculos-de-eletronica)
 [![PYTHON](https://img.shields.io/badge/Calculadora_de_Regra_de_3-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calcula_regra_de_3)
 [![PYTHON](https://img.shields.io/badge/Organizador_de_Arquivos-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/banco_de_arquivos)
-
+[![PYTHON](https://img.shields.io/badge/Calculadora_de_massa_muscular-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=gray&border=4px%20solid%203776AB)](https://github.com/manopico2024/calc_imc)
 </div>
 
 ## Skills & ATUALIZAÇÕES  🚀
