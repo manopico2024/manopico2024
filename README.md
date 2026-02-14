@@ -37,12 +37,5 @@
 <div align="center">
 </p></P><h1><b>
 
-  ### 📊 GitHub Analytics
-<div align="left">
-  
-  <!-- Primeira linha - Estatísticas -->
-  <div>
-    <img height="300" width="300" src="https://github-readme-stats.vercel.app/api?username=manopico2024&theme=dark&show_icons=true&locale=pt-br&count_private=true&include_all_commits=true&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&line_height=30&bg_color=000000&text_color=ffffff&title_color=3776AB&icon_color=808080&border_color=3776AB&border_radius=20&ring_color=708080&custom_title=📊%20ESTATÍSTICAS&card_width=300" alt="Estatísticas Completas"/>
-  </div>
 
 </div>
