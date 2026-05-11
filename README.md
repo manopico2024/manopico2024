@@ -30,8 +30,73 @@
       src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"
       style="font-size: 19px;" />
 </div>
-<div align="left"></P><h4><b>
-<p>Olá! Eu sou Marcus Nunes 🔥🎯</b> Foco Atual & EspecialidadesAtualmente focado no desenvolvimento de soluções robustas com Python, com ênfase em:Análise de Dados: Transformando dados brutos em insights acionáveis.Banco de Dados: Modelagem e gerenciamento com SQLite3.Interfaces Gráficas (GUI): Criação de softwares desktop intuitivos utilizando Tkinter e PyQt5.Mobile: Iniciando estudos para expansão de ecossistema.🛠️ Portfólio de ProjetosExplore alguns dos meus sistemas e ferramentas desenvolvidas:CategoriaProjetoRepositórioSistemasSabia SistemaGestãoOrdens de ServiçosUtilitáriosGerador de SenhasClimaAlerta TempestadesEletrônicaCálculos EletrônicosMatemáticaRegra de 3ArquivosOrganizador de ArquivosSaúdeMassa Muscular (IMC)🚀 Skills & FerramentasLinguagens: Python (Avançado), C++ (Front-end).Interface: Tkinter, PyQt5, CSS para estilização.Dados: SQLite3, Manipulação de arquivos e análise de dados.
+<div align="center">
+  
+# 🔥 Marcus Nunes 🎯
+
+### Desenvolvedor focado em soluções robustas com Python
+
+</div>
+
+---
+
+## 🚀 Foco Atual & Especialidades
+
+Atualmente focado no desenvolvimento de soluções robustas com **Python**, com ênfase em:
+
+<div align="center">
+  
+| Área | Descrição |
+|------|------------|
+| 📊 **Análise de Dados** | Transformando dados brutos em insights acionáveis |
+| 🗄️ **Banco de Dados** | Modelagem e gerenciamento com SQLite3 |
+| 🖥️ **Interfaces Gráficas (GUI)** | Criação de softwares desktop intuitivos utilizando Tkinter e PyQt5 |
+| 📱 **Mobile** | Iniciando estudos para expansão de ecossistema |
+
+</div>
+
+---
+
+## 🛠️ Portfólio de Projetos
+
+Explore alguns dos meus sistemas e ferramentas desenvolvidas:
+
+<div align="center">
+  
+| Categoria | Projeto | Repositório |
+|-----------|---------|--------------|
+| **Sistemas** | Sabia Sistema | Gestão Ordens de Serviços |
+| **Utilitários** | Gerador de Senhas | Clima Alerta Tempestades |
+| **Eletrônica** | Cálculos Eletrônicos | - |
+| **Matemática** | Regra de 3 | - |
+| **Arquivos** | Organizador de Arquivos | - |
+| **Saúde** | Massa Muscular (IMC) | - |
+
+</div>
+
+---
+
+## 💻 Skills & Ferramentas
+
+<div align="center">
+  
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagens** | 🐍 Python (Avançado), ⚙️ C++ (Front-end) |
+| **Interface** | 🎨 Tkinter, PyQt5, CSS para estilização |
+| **Dados** | 📂 SQLite3, Manipulação de arquivos e análise de dados |
+
+</div>
+
+---
+
+<div align="center">
+  
+### 📫 **Vamos conectar?**
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+
 </div>
 
 <div align="center">
