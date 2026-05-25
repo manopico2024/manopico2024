@@ -51,7 +51,7 @@ Atualmente focado no desenvolvimento de soluções robustas com **Python**, com 
 | 📊 **Análise de Dados** | Transformando dados brutos em insights acionáveis |
 | 🗄️ **Banco de Dados** | Modelagem e gerenciamento com SQLite3 |
 | 🖥️ **Interfaces Gráficas (GUI)** | Criação de softwares desktop intuitivos utilizando Tkinter e PyQt5 |
-| 📱 **Mobile** | Iniciando estudos para expansão de ecossistema |
+
 
 </div>
 
